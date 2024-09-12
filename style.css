@@ -173,13 +173,13 @@ section {
 }
 
 #profile .section__pic-container img {
-  border-radius: 200px;
+  border-radius: 50%;
+  width: 400px;
+  object-fit: cover;
 }
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
   margin: auto 0;
 }
 
