@@ -281,6 +281,13 @@ section {
   gap: 1rem;
 }
 
+#digital-resume a{
+  text-decoration: none;
+}
+#digital-resume a:hover{
+  color: black;
+}
+
 /* ABOUT SECTION */
 
 #about {
