@@ -1,6 +1,6 @@
 ### About this project
 ---
-This is my ultimate portfolio website that i built with the help and inspiration of Adamir who changed his career to become a software developer 
+This is my ultimate portfolio website that i built with the inspiration of Adamir who changed his career to become a software developer 
 
 
 **This is the link to the live demo of this project**
